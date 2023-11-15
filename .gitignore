@@ -1,0 +1,8 @@
+.venv
+docs
+proj
+static
+poetry.lock
+*.html
+*.yaml
+__pycache__
