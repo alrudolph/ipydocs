@@ -2,7 +2,7 @@
 name = "ipydocs"
 version = "0.0.1"
 description = "Interactive Python Documentation"
-authors = ["Your Name <you@example.com>"]
+authors = ["Alex Rudolph <alex3rudolph@gmail.com>"]
 license = "Apache-2.0"
 readme = "README.md"
 repository = "https://www.github.com/alrudolph/ipydocs"
